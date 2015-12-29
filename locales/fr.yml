@@ -1,0 +1,32 @@
+---
+fr:
+
+  default_page_title: beCP Comp Competive Programming Contest
+
+  AllContests: Tous les concours
+  Contest_menu: beCP
+
+  title: Concours de programmation belge (beCP)
+  subtitle: |
+    Concours pour élèves du secondaire permettant de composer la délégation belge
+    pour l'Olympiade Internationale d'Informatique.
+
+  step1: Sélection pour beCP
+  step1_expl: |
+    Entre dans le groupe beCP soit en apprenant les bases de la programmation par toi même,
+    soit en te qualifiant pour la finale beOI. 
+  step2: Entraînement
+  step2_expl: |
+    Nous dispensons des formations (gratuite hors logement et nourriture) et du coaching pour tout 
+    participant s'entraînant régulièrement.
+  step3: Sélection nationale
+  step3_expl: |
+    Un concours de programmation est organisé au niveau belge chaque année (vers le mois de mai) pour 
+    composer la délégation belge.
+  step4: Olympiade Internationale
+  step4_expl: | 
+    La délegation belge (4 participants et 2 encadrants) participe à l'Olympiade Internationale 
+    d'Informatique avec plus de 80 autres pays.
+
+  questions: Des questions ?
+  contact_us: Contactez-nous !

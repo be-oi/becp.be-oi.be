@@ -1,0 +1,108 @@
+---
+mailchimp_submit:
+  fr: "//be-oi.us6.list-manage.com/subscribe/post?u=4a51a9ab354aa26ba87f9a75f&amp;id=0637c4db56"
+  nl: "//be-oi.us9.list-manage.com/subscribe/post?u=c6d8dcea8c4875082e570aee9&amp;id=e896dde7ec"
+trianglify_colors: '["#544A45","#473854","6E9363","#B7B7FF","BAFAA7"]'
+---
+<section class="image-bg parallax pt120 pb80 pt-xs-40 pb-xs-40" style="background-color:#473854;">
+  <%=page_header_empty_image_holder %>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-sm-12">
+        <h1 style="color:white; opacity:0.7;"><%= t(:title) %></h1>
+        <h4 class=" mb48 mb-xs-32" style="color:white; opacity:0.7;">
+          <%= t(:subtitle) %>
+        </h4>
+      </div>
+    </div>
+    <!--end of row-->
+  </div>
+  <!--end of container-->
+</section>
+
+<section class=" pt120 pb120 pt-xs-40 pb-xs-40">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6 col-md-5 col-md-offset-1">
+        <div class="feature feature-3 mb64 mb-xs-24">
+          <div class="left">
+            <i class="fa fa-rocket icon-sm"></i>
+          </div>
+          <div class="right">
+            <h4 class="mb16"><%= t(:step1) %></h4>
+            <p><%= t(:step1_expl) %></p>
+          </div>
+        </div>
+        <!--end of feature-->
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="feature feature-3 mb64 mb-xs-24">
+          <div class="left">
+            <i class="fa-graduation-cap fa icon-sm"></i>
+          </div>
+          <div class="right">
+            <h4 class="mb16"><%= t(:step2) %></h4>
+            <p><%= t(:step2_expl) %></p>
+          </div>
+        </div>
+        <!--end of feature-->
+      </div>
+      <div class="col-sm-6 col-md-5 col-md-offset-1">
+        <div class="feature feature-3 mb-xs-24">
+          <div class="left">
+            <i class="fa-trophy fa icon-sm"></i>
+          </div>
+          <div class="right">
+            <h4 class="mb16"><%= t(:step3) %></h4>
+            <p><%= t(:step3_expl) %></p>
+          </div>
+        </div>
+        <!--end of feature-->
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="feature feature-3">
+          <div class="left">
+            <i class="fa fa-globe icon-sm"></i>
+          </div>
+          <div class="right">
+            <h4 class="mb16"><%= t(:step4) %></h4>
+            <p><%= t(:step4_expl) %></p>
+          </div>
+        </div>
+        <!--end of feature-->
+      </div>
+    </div>
+    <!--end of row-->
+  </div>
+  <!--end of container-->
+</section>
+
+<section class="image-square left bg-secondary">
+  <div class="col-md-6 image">
+    <div class="background-image-holder">
+    <img alt="image" class="background-image" src="/img/code.jpg" />
+    </div>
+  </div>
+  <div class="col-md-6 col-md-offset-1 content"><%= partial "index_enter_becp" %></div>
+</section>
+
+<section class="image-square right bg-secondary">
+  <div class="col-md-6 image">
+    <div class="background-image-holder">
+      <img alt="image" class="background-image" src="/img/learn.jpg" />
+    </div>
+  </div>
+  <div class="col-md-6 content"><%= partial "index_learn_prog" %></div>
+</section>
+
+<section class="bg-dark pb0">
+  <div class="container">
+    <div class="row mb64 mb-xs-32">
+      <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+        <h1 class="large"><%= t(:questions) %></h1>
+        <%= mail_to 'becp@be-oi.be', t(:contact_us), class:'btn btn-lg btn-filled' %>
+      </div>
+    </div><!--end of row-->
+  </div><!--end of container-->
+</section>
+
