@@ -1,0 +1,32 @@
+---
+nl:
+
+  default_page_title: Belgische wedstrijd programmeren (beCP)
+
+  AllContests: Alle wedstrijden
+  Contest_menu: beCP
+
+  title: Belgische wedstrijd programmeren (beCP)
+  subtitle: |
+    Wedstrijd voor leerlingen uit het middelbaar ter selectie van de Belgische delegatie
+    voor de Internationale Olympiade Informatica.
+
+  step1: Selectie voor beCP
+  step1_expl: |
+    Je kan lid worden van de beCP groep door alvast zelfstandig te leren programmeren, 
+    of door de finale van beOI te halen.
+  step2: Trainingen
+  step2_expl: |
+    Wij organiseren opleidingen (gratis, uitgezonderd logies en maaltijden) en coaching voor iedereen 
+    die regelmatig oefent.
+  step3: Nationale selectie
+  step3_expl: |
+    Elk jaar wordt een programmeerwedstrijd op nationaal niveau georganiseerd (rond mei) om  
+    de Belgische delegatie samen te stellen.
+  step4: Olympiade Internationale
+  step4_expl: | 
+    De Belgische delegatie - 4 deelne(e)m(st)ers en 2 begeleiders - neemt deel aan de Internationale 
+    Olympiade Informatica met meer dan 80 andere landen.
+
+  questions: Vragen?
+  contact_us: Contacteer ons!
