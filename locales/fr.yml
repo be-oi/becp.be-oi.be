@@ -4,7 +4,11 @@ fr:
   default_page_title: Concours de programmation belge (beCP)
 
   AllContests: Tous les concours
-  Contest_menu: beCP
+  Contest_menu: Concours
+  Result_menu: Résultats
+  TaskDescriptions: Énoncés
+  BelgiumAtIOI: "Belgique à l'IOI"
+  Results: Résultats
 
   title: Concours de programmation belge (beCP)
   subtitle: |
@@ -28,5 +32,22 @@ fr:
     La délegation belge (4 participants et 2 encadrants) participe à l'Olympiade Internationale 
     d'Informatique avec plus de 80 autres pays.
 
+  ranking: Classement
+  task_descriptions: Énoncés
+
   questions: Des questions ?
   contact_us: Contactez-nous !
+
+  column_name: Nom
+  column_school: "Ecole (année)"
+  column_score: Score
+
+  primary: primaire
+  secondary: secondaire
+  year_1st: 1re
+  year_2nd: 2e
+  year_3rd: 3e
+  year_4th: 4e
+  year_5th: 5e
+  year_6th: 6e
+  year_7th: 7e

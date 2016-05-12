@@ -31,7 +31,19 @@
                 <li><%= link_to 'beCP', '//becp.be-oi.be' %></li>
               </ul>
             </li>
-            <li></li>
+            <li class="has-dropdown">
+              <%= link_to t(:Contest_menu), 'index.html' %>
+              <ul>
+                <li><%= link_to t('TaskDescriptions'), 'index.html#questions' %></li>
+              </ul>
+            </li>
+            <li class="has-dropdown">
+              <%= link_to t(:Result_menu), 'index.html' %>
+              <ul>
+                <li><%= link_to t('Results')+" 2016", 'index.html#results' %></li>
+                <li><%= link_to t('BelgiumAtIOI'), 'http://stats.ioinformatics.org/results/BEL?sort=rel_rank_desc' %></li>
+              </ul>
+            </li>
           </ul>
         </div>
         <!--end of menu module-->
