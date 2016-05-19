@@ -4,7 +4,11 @@ nl:
   default_page_title: Belgische wedstrijd programmeren (beCP)
 
   AllContests: Alle wedstrijden
-  Contest_menu: beCP
+  Contest_menu: De wedstrijd
+  Result_menu: Resultaten
+  TaskDescriptions: Opdrachten
+  BelgiumAtIOI: "België op de IOI"
+  Results: Resultaten
 
   title: Belgische wedstrijd programmeren (beCP)
   subtitle: |
@@ -28,5 +32,22 @@ nl:
     De Belgische delegatie - 4 deelne(e)m(st)ers en 2 begeleiders - neemt deel aan de Internationale 
     Olympiade Informatica met meer dan 80 andere landen.
 
+  ranking: Eindklassement
+  task_descriptions: Opdrachten
+
   questions: Vragen?
   contact_us: Contacteer ons!
+
+  column_name: Naam
+  column_school: "School (jaar)"
+  column_score: Score
+
+  primary: lager
+  secondary: middelbaar
+  year_1st: 1e
+  year_2nd: 2e
+  year_3rd: 3e
+  year_4th: 4e
+  year_5th: 5e
+  year_6th: 6e
+  year_7th: 7e

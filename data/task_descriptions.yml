@@ -1,0 +1,33 @@
+2016:
+  -
+    title:
+      official: Coins
+      fr: Pièces
+      nl: Stukken
+    file:
+      fr: beCP16-coins-fr.pdf
+      nl: beCP16-coins-nl.pdf
+  -
+    title:
+      official: Keys
+      fr: Échange de clés
+      nl: Sleutels uitwisselen
+    file:
+      fr: beCP16-keys-fr.pdf
+      nl: beCP16-keys-nl.pdf
+  -
+    title:
+      official: Trains
+      fr: Trains
+      nl: Treinen
+    file:
+      fr: beCP16-trains-fr.pdf
+      nl: beCP16-trains-nl.pdf
+  -
+    title:
+      official: Water
+      fr: De la flotte partout 
+      nl: Overal water
+    file:
+      fr: beCP16-water-fr.pdf
+      nl: beCP16-water-nl.pdf
