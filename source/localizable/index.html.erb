@@ -111,7 +111,7 @@ trianglify_colors: '["#544A45","#473854","6E9363","#B7B7FF","BAFAA7"]'
             <tr>
               <td><%= r.position %></td>
               <td nowrap="nowrap"><%= r.name %></td>
-              <td><%= r.school %> (<%= t(r.year) %>)</td>
+              <td><%= r.school %> <% if r.year %>(<%= t(r.year) %>)<% end %></td>
               <td><strong><%= r.score %></strong></td>
             </tr>
             <% end %>
