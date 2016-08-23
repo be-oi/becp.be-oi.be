@@ -1,0 +1,46 @@
+<div class="container">
+    <div class="page-header">
+        <h1>beCP on UVa <small>Tracking pool activity</small></h1>
+    </div>
+    <div class="col-md-8">
+        <h2>Top problem solvers (last 15 days)</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>User</th>
+                    <th>Ploblems solved</th>
+                </tr>
+            </thead>
+            <tbody id="top-solvers"></tbody>
+        </table>
+    </div>
+    <div class="col-md-12">
+        <h2>Last submissions</h2>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>User</th>
+                        <th>Problem</th>
+                        <th>Verdict</th>
+                        <th>Lang</th>
+                        <th>Time</th>
+                        <th>Submit time</th>
+                    </tr>
+                </thead>
+                <tbody id="submissions-table"></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    var uhuntIds = [692086, 692084, 692078, 692075, 824083,
+                    820426, 826225, 834129, 829739, 826272,
+                    837645, 832770];
+</script>
+<script src="../js/uhunt/util.js"></script>
+<script src="../js/uhunt/model.js"></script>
+<script src="../js/uhunt/last_submissions.js"></script>
+<script src="../js/uhunt/top_solvers.js"></script>
