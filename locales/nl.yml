@@ -32,6 +32,8 @@ nl:
     De Belgische delegatie - 4 deelne(e)m(st)ers en 2 begeleiders - neemt deel aan de Internationale 
     Olympiade Informatica met meer dan 80 andere landen.
 
+  Calendar: Kalender
+
   ranking: Eindklassement
   task_descriptions: Opdrachten
 
@@ -51,3 +53,16 @@ nl:
   year_5th: 5e
   year_6th: 6e
   year_7th: 7e
+
+  Jan: jan
+  Feb: Feb
+  Mar: Maa
+  Apr: Apr
+  May: Mei
+  Jun: Jun
+  Jul: Jul
+  Aug: Aug
+  Sep: Sep
+  Oct: Okt
+  Nov: Nov
+  Dec: Dev

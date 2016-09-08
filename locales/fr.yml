@@ -32,6 +32,15 @@ fr:
     La délegation belge (4 participants et 2 encadrants) participe à l'Olympiade Internationale 
     d'Informatique avec plus de 80 autres pays.
 
+  Calendar: Calendrier
+  training_camp: Camp d'entraînement
+  training_course: Formation
+  date_program_location_tbd: Dates, lieu et programme à déterminer
+  selection_contest: Concours de sélection pour l'IOI
+  selection_contest_details: Bruxelles (à confirmer)
+  ioi_full: Olympiade Internationale d'Informatique (IOI)
+  ioi_details: Téhéran, Iran
+
   ranking: Classement
   task_descriptions: Énoncés
 
@@ -51,3 +60,16 @@ fr:
   year_5th: 5e
   year_6th: 6e
   year_7th: 7e
+
+  Jan: jan
+  Feb: fév
+  Mar: mars
+  Apr: avr
+  May: mai
+  Jun: juin
+  Jul: juil
+  Aug: aoû
+  Sep: sep
+  Oct: oct
+  Nov: nov
+  Dec: dec
