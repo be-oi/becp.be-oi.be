@@ -301,6 +301,30 @@ trianglify_colors: '["#544A45","#473854","6E9363","#B7B7FF","BAFAA7"]'
     <!--end of row-->
   </div>
   <!--end of container-->
+
+<section>
+<section class="bg-secondary">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h4 class="uppercase large mb80"><%= t(:task_descriptions) %> 2017</h4>
+        <!--end of button tabs-->
+      </div>
+    </div>
+    <!--end of row-->
+
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <% data.task_descriptions[2017].each do |e| %>
+        <%= link_to  "#{e.title[lang]} (#{e.title.official}) ", "/archives/#{e.file[lang]}" , class:"btn btn-sm", target:"_blank" %>
+        <% end %>
+      </div>
+    </div>
+    <!--end of row-->
+  </div>
+  <!--end of container-->
+
 </section>
 
 
